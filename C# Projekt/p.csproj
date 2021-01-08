@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Temperature.cs" />
+    <Content Include="RäknaAreaVolym.cs" />
+    <Content Include="Program.cs" />
+    <Content Include="KonverteraEnheter.cs" />
+    <Content Include="Calculator.cs" />
+  </ItemGroup>
+</Project>
